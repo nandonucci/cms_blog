@@ -38,10 +38,10 @@
         <a href="javascript:;" data-toggle="collapse" data-target="#posts"><i class="fa fa-fw fa-arrows-v"></i> POSTS <i class="fa fa-fw fa-caret-down"></i></a>
         <ul id="posts" class="collapse">
           <li>
-            <a href="#">Adicionar novo post</a>
+            <a href="./add_post.php">Adicionar novo post</a>
           </li>
           <li>
-            <a href="#">Ver todos os posts</a>
+            <a href="./posts.php">Ver todos os posts</a>
           </li>
         </ul>
       </li>
